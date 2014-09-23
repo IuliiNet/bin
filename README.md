@@ -1,1 +1,4 @@
-/usr/local/bin/ sh script for gentoo router
+# scripts
+
+Some usefull gentoo router script for IuliiNet mesh network.
+
